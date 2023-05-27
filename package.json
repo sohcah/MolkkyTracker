@@ -1,0 +1,42 @@
+{
+  "name": "MolkkyTracker",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tamagui/animations-css": "^1.28.1",
+    "@tamagui/animations-reanimated": "^1.28.1",
+    "@tamagui/font-inter": "^1.28.1",
+    "@tamagui/lucide-icons": "^1.28.1",
+    "@tamagui/shorthands": "^1.28.1",
+    "@tamagui/theme-base": "^1.28.1",
+    "expo-linear-gradient": "^12.2.0",
+    "jotai": "^2.1.0",
+    "jwt-decode": "^3.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-web": "^0.19.4",
+    "react-router": "^6.11.2",
+    "react-router-dom": "^6.11.2",
+    "tamagui": "^1.28.1",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@bunchtogether/vite-plugin-flow": "^1.0.2",
+    "@rollup/plugin-babel": "^6.0.3",
+    "@tamagui/vite-plugin": "^1.28.1",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@types/react-native": "^0.71.7",
+    "@vitejs/plugin-react": "^4.0.0",
+    "dotenv": "^16.0.3",
+    "typescript": "^5.0.4",
+    "vite": "^3.2.6"
+  },
+  "packageManager": "yarn@3.5.1"
+}
